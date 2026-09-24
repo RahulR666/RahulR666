@@ -11,7 +11,6 @@ Currently working on autonomous vehicle and ADAS systems involving LiDAR, camera
 ## What I Work On
 
 - **Localization & State Estimation** — GNSS, IMU, EKF, coordinate transforms, heading estimation
-- **LiDAR Perception** — point-cloud processing, segmentation, clustering, tracking
 - **Sensor Fusion** — LiDAR, camera, radar, GNSS, and IMU integration
 - **Autonomous Vehicles & ADAS** — perception, localization, and vehicle-level validation
 - **Robot Navigation** — path planning, obstacle avoidance, and autonomous navigation
@@ -42,8 +41,8 @@ Currently working on autonomous vehicle and ADAS systems involving LiDAR, camera
 ### GNSS–IMU Localization
 Development and validation of localization pipelines for autonomous vehicles using GNSS and IMU measurements, including state estimation, coordinate transformations, heading handling, and robustness testing.
 
-### LiDAR Perception & Sensor Fusion
-Work involving point-cloud processing, object tracking, and integration of LiDAR, camera, and radar information for autonomous-system perception.
+### Sensor Fusion
+Integration of LiDAR, camera, and radar information for autonomous-system perception.
 
 ### Computer Vision Based ADAS
 Developed and modularized computer-vision-based ADAS functions including MOIS, BSIS, and LDWS, with real-world testing and validation on vehicle platforms.
